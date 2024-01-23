@@ -1,8 +1,8 @@
-<p align="left">Languages and Tools</p>
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
@@ -27,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
 </div>
+
+###
+
+<h3 align="left">Most Used Languages</h3>
 
 ###
 
