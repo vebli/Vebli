@@ -1,12 +1,13 @@
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SegfaultSorcery&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SegfaultSorcery&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
 <p align="left">Languages and Tools</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -34,7 +35,6 @@
 </div>
 
 ###
-
 
 <!--
 **SegfaultSorcery/SegfaultSorcery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
