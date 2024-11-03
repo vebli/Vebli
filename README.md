@@ -1,4 +1,4 @@
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">Favorites</h2>
 
 ###
 
