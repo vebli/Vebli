@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cmake/064F8C" height="40" alt="cmake logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nixos/5277C3" height="40" alt="nixos logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
