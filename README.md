@@ -38,7 +38,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vebli&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=21600&order=2&exclude_repo=awesome-config,nvim-nvf,nvim-lazy,luasnip-snippets,emacs-config,nvim-flake&cache_seconds=1" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vebli&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=21600&order=2&exclude_repo=awesome-config,nvim-nvf,nvim-lazy,luasnip-snippets,emacs-config,nvim-flake" height="150" alt="languages graph"  />
 </div>
 
 ###
