@@ -45,14 +45,12 @@
   -->
 </div>
 
-
-
 ###
 <h3 align="left">Most Used Languages</h3>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-1xxsdnq8a-veblys-projects.vercel.app/api/top-langs?username=vebli&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=3600&order=2&exclude_repo=awesome-config,nvim-nvf,nvim-lazy,luasnip-snippets,nvim-flake" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-ecru-two-41.vercel.app/api/top-langs/?username=vebli&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=3600&order=2&exclude_repo=awesome-config,nvim-nvf,nvim-lazy,luasnip-snippets,nvim-flake" height="150" alt="languages graph"  />
 </div>
 
