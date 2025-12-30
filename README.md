@@ -25,16 +25,14 @@
   <!--
   <img src="https://cdn.simpleicons.org/haskell/5D4F85" height="40" alt="bash logo"  />
   <img width="12" />
-  --->
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
-  <img width="12" />
-  <!--
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   -->
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
+  <img width="12" />
+   <img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" height="40" alt="neovim logo"  />
   <img width="12" />
   <!--
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
